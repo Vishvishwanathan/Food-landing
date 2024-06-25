@@ -494,13 +494,15 @@ footer {
   }
 
   .p1 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     text-align: center;
+    
   }
 
   .p2 {
     text-align: center;
   }
+  
 
   .footer-two {
     width: 100%;
@@ -607,7 +609,6 @@ footer {
   .btn-4 {
     max-width: 300px;
   }
-
   .card-text4 {
     font-size: 16px;
   }
@@ -631,8 +632,13 @@ footer {
   .card5-group {
     margin-left: -29px;
   }
+ 
+ 
 
   .left-content {
     margin-left: -5px !important;
   }
+}
+.card1{
+  width: 300px;
 }
